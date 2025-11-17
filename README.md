@@ -36,6 +36,10 @@ If the version matches a known vulnerable build, it marks the target as Vulnerab
 Otherwise, it categorizes the server as Potentially Patched or Unknown.
 
 # Installation
+```bash
+https://github.com/mrmtwoj/WSUS-Patch-Level-Scanner-A-Lightweight-Tool-for-Detecting-Vulnerable-Microsoft-WSUS-Deployments.git
+```
+
 ## Usage Examples
 ```bash
 python wsus_scanner_enhanced.py -t 192.168.1.20

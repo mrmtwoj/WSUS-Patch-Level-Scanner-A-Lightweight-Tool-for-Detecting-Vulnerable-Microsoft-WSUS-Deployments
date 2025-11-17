@@ -1,0 +1,2 @@
+# WSUS-Patch-Level-Scanner-A-Lightweight-Tool-for-Detecting-Vulnerable-Microsoft-WSUS-Deployments
+WSUS scanner, security tools, patch level detection, Windows Server Update Services, WSUS vulnerability, sysadmin tools, cybersecurity, network scanner, Python security script, IT infrastructure security, vulnerability assessment, WSUS SSL port, enterprise security, CVE detection, server version scanner
